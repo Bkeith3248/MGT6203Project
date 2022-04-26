@@ -1,7 +1,5 @@
 # MGT6203Project
 
-##Overview
-
 Inflation data investigation seeking to answer two primary questions:
 1. Are current inflation levels unprecedented and what are the driving factors causing current inflation levels? 
 2. What are some common goods whose price changes are above, below, or at the inflation rate? 
